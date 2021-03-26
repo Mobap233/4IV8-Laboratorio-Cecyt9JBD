@@ -48,7 +48,7 @@ h1{
     list-style: none;
     padding: 0;
     background: #000;
-    width: 46.13%;
+    width: 48%;
     max-width: 1100px;
     margin: auto;
 
@@ -87,10 +87,9 @@ h1{
 
     
     float: right;
-    color: #77BFAC;
     padding: 40px;
-    width: 140px;
-    height: 70px;
+    width: 190px;
+    height: 95px;
 
 }
 
