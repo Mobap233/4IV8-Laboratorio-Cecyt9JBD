@@ -1,0 +1,138 @@
+p{
+
+    text-align: justify;
+
+}
+
+h1{
+
+    text-align: center;
+
+}
+
+
+.principal-container{
+
+    background-color: #77BFAC;
+    margin: 100px;
+    border: 5px solid #000;
+
+}
+
+
+
+.nav_principal{
+
+    background-color: #fff;
+    margin: 100px;
+    border-radius: 4px;
+    border: 5px solid #000;
+    display: block;
+    
+}
+
+
+.nav_superior{
+
+    background-color:#D75050;
+    margin: 0;
+    border: 1px solid black;
+    
+
+
+}
+
+.menu{
+
+    list-style: none;
+    padding: 0;
+    background: #000;
+    width: 46%;
+    max-width: 1100px;
+    margin: auto;
+
+}
+
+.menu li a{
+
+    text-decoration: none;
+    color: #fff;
+    padding: 20px;
+    display: block;
+
+}
+
+.menu li{
+
+    display: inline-block;
+    text-align: center;
+
+}
+
+.menu li a:hover{
+
+    background: #ef8354;
+
+}
+
+.festival_container{
+
+
+    margin: 40px;
+
+}
+
+.defqon_1{
+
+
+    height: 200px;
+    width: 400px;
+    float: right;
+    border-radius: 40px;
+    padding: 20px;
+    
+
+}
+
+
+.qlimax_1{
+    
+    
+    height: 200px;
+    width: 400px;
+    float: left;
+    padding: 20px;
+    border-radius: 40px;
+    padding: 20px;
+
+   
+}
+
+.intents_festival{
+
+    height: 200px;
+    width: 400px;
+    float: right;
+    border-radius: 40px;
+    padding: 20px;
+    
+}
+
+
+
+
+.footer_principal{
+
+    background-color: #D75050;
+    border-radius: 10px;
+    text-align: center;
+    width: 86%;
+    margin: 100px;
+    border: solid #000;
+}
+
+.footer_principal footer p{
+
+    text-align: center;
+    
+}

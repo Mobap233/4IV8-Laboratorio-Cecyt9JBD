@@ -1,0 +1,169 @@
+p{
+
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+.principal-container{
+
+    background-color: #77BFAC;
+    margin: 100px;
+    border: 5px solid #000;
+
+}
+
+
+.nav_principal{
+
+    background-color: #fff;
+    margin: 100px;
+    border-radius: 4px;
+    border: 5px solid #000;
+    display: block;
+    
+}
+
+
+.nav_superior{
+
+    background-color:#D75050;
+    margin: 0;
+    border: 1px solid black;
+    
+
+
+}
+
+
+.menu{
+
+    list-style: none;
+    padding: 0;
+    background: #000;
+    width: 39%;
+    max-width: 1100px;
+    margin: auto;
+
+}
+
+.menu li a{
+
+    text-decoration: none;
+    color: #fff;
+    padding: 20px;
+    display: block;
+
+}
+
+.menu li{
+
+    display: inline-block;
+    text-align: center;
+
+}
+
+.menu li a:hover{
+
+    background: #ef8354;
+
+}
+
+
+.pioneros_hard{
+
+    margin: 30px;
+
+
+}
+
+    .the_beholder{
+
+        border-radius: 900px;
+        float: right;
+        width: 150px;
+        height: 150px;
+        padding: 20px;
+
+        
+    }
+
+    .the_prophet{
+
+        border-radius: 900px;
+        float: left;
+        width: 150px;
+        height: 150px;
+        padding: 20px;
+
+    }
+
+    .the_lady_lana{
+
+        border-radius: 900px;
+        float: right;
+        width: 150px;
+        height: 150px;
+        padding: 20px;
+
+    }
+
+    .the_luna{
+
+        border-radius: 900px;
+        float: left;
+        width: 150px;
+        height: 150px;
+        padding: 20px;
+
+    }
+
+    .the_headhunter{
+
+        border-radius: 900px;
+        float: right;
+        width: 150px;
+        height: 150px;
+        padding: 20px;
+
+    }
+
+    .the_showtek{
+
+        border-radius: 900px;
+        float: left;
+        width: 150px;
+        height: 150px;
+        padding: 20px;
+
+    }
+
+    .the_wild{
+
+        border-radius: 900px;
+        float: right;
+        width: 150px;
+        height: 150px;
+        padding: 20px;
+
+    }
+    
+
+
+
+.footer_principal{
+
+    background-color: #D75050;
+    border-radius: 10px;
+    text-align: center;
+    width: 86%;
+    margin: 100px;
+    border: solid #000;
+}
+
+.footer_principal footer p{
+
+    text-align: center;
+    
+}
